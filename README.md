@@ -1,0 +1,2 @@
+# GlobalBazaar
+e-commerce project
